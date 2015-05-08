@@ -2,3 +2,7 @@ windows：http://git-scm.com/downloads
 
 linux: 可以通过上面网站下载，也可以更加方便直接在terminal里是有  "sudo apt-get install git"  进行下载 以及"sudo apt-get upgrade git"进行更新。
 
+mac: https://www.youtube.com/watch?v=vaNGbk6HN9Y
+
+mac 链接是一个git使用教程，之后的part1，2，3 为bash的使用方法，三个系统通用。大家都看一下啊。
+
