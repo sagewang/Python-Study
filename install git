@@ -1,0 +1,4 @@
+windows：http://git-scm.com/downloads
+
+linux: 可以通过上面网站下载，也可以更加方便直接在terminal里是有  "sudo apt-get install git"  进行下载 以及"sudo apt-get upgrade git"进行更新。
+
